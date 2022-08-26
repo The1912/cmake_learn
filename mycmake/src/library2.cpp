@@ -9,7 +9,7 @@ void addition(int a_in, float b_in)
 
 void Test2::print_name2()
 {
-    std::cout << "Lib name is libaray1 !" << std::endl;
+    std::cout << "Lib name is libaray2 !" << std::endl;
 }
 
 void Test2::print_number2()
